@@ -248,7 +248,7 @@ export const projects = [
     date: "Feb 2022 - Apr 2022",
     description:
       "I developed this application while learning Java. Consequently, the application is coded in Java and serves the purpose of generating random strong passwords based on the length of digits you specify. Additionally, I employed the Firebase authentication method to facilitate user login into the application.",
-      image:"images/password-Generator.jpg",
+      image:"images/Password-Generator.jpg",
       tags: ["Html", "css", "JavaScript"],
     category: "android app",
     // github: "https://github.com/sanjeevgangwar/Password-Manager",
