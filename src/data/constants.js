@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/rajeevsinghh",
   resume:
-    "https://drive.google.com/file/d/1493w1-MXMnNYERaYx3XA7Wx3INVSq1bO/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1CYWWiShzjhQkeA_Uf_YuyLNEDnD6Ddlw/view?usp=drivesdk ",
   linkedin: "https://www.linkedin.com/in/rajeev-kumar-674754251",
   twitter: "https://twitter.com/RajeevS39290820",
   insta: "https://www.instagram.com/rajeev__singhh/",
@@ -122,7 +122,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://www.freepik.com/free-vector/hand-drawn-second-hand-clothing-store-logo_38731352.htm#query=dress%20logo&position=4&from_view=keyword&track=ais&uuid=5aef50af-f49d-41b1-b8d4-7e371070e4de",
+    img: "https://www.cleverti.com/wp-content/uploads/2020/05/web-icon-2-300x300.png",
     role: "Frontend Web Developer",
     Project: "Dressify E-commerce Website ",
     date: "Oct 2023 - Nov 2023",
@@ -144,52 +144,66 @@ export const education = [
     id: 1,
     img: "https://lpu2017.files.wordpress.com/2015/08/unnamed.png",
     school: "Lovely Professional University Phagwara, Punjab",
-    date: "Aug 2022 - Apr 2024",
-    grade: "7.74 CGPA",
-    desc: "I am currently pursuing a Master's degree in Computer Science at Lovely Professional University Phagwara, Punjab. I have completed 2 semesters and have a CGPA of 7.74. I have taken courses in Web Development, Algorithms, Object-Oriented Programming, and Database Management Systems, among others.",
+    date: "Aug 2022 - Aug 2024",
+    grade: "7.5 CGPA",
+    desc: "I am currently pursuing a Master's degree in Computer Science at Lovely Professional University Phagwara, Punjab. I have completed III semesters and have a CGPA of 7.5. I have taken courses in Web Development, Algorithms, Object-Oriented Programming, and Database Management Systems, among others.",
     degree: "Master of Computer Application(MCA), Computer Science.",
   },
   {
     id: 2,
-    img: "https://upload.wikimedia.org/wikipedia/en/9/99/Dev_Sanskriti_Vishwavidyalaya.jpg",
-    school: "Dev Sanskriti Vishwavidyalaya, Haridwar UttraKhand.",
-    date: "Aug 2019 - Apr 2022",
-    grade: "7.34 CGPA",
-    desc: "I completed my Bachelor degree in Bachelor of Computer Application at Dev Sanskriti Vishwavidyalaya, Haridwar UttraKhand, where i stuied Computer Sciecne.",
-    degree: "Bachelor of Computer Application(BCA), Computer Science.",
+    img: "https://www.fastjobsearchers.com/univ/images/ppup-logo.jpg",
+    school: "Patliputra University, Patna Bihar.",
+    date: "Aug 2018 - Apr 2021",
+    grade: "6.2 CGPA",
+    desc: "I completed my Bachelor degree in Bachelor Of Science(Information Technology) at Patliputra University, Patna Bihar., where i stuied Computer Sciecne.",
+    degree: "Bachelor Of Science (Information Technology)",
   },
   {
     id: 3,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQOzDl-VRKs4MpU_ra-iNut0kg9U2sPVd0FyfdWoSCalwHp4FGEFHDM57WRNaUXvVVRq8&usqp=CAU",
+    img: "https://images.picxy.com/cache/2019/5/30/4cf3547dfaeae10d30eb7bff1db582e7.jpg",
     school:
-      "Chiraunji Lal Virendra Pal Sarasvati Vidhya Mandir Inter College, Pilibhit UP.",
-    date: "Apr 2018 - Apr 2019",
-    grade: "65.2%",
-    desc: "I completed my class 12th education at Chiraunji Lal Virendra Pal Sarasvati Vidhya Mandir Inter College, Pilibhit, where I studied Science with PCM",
-    degree: "UP Board(XII), Science with PCM",
+      "College Of Commerce Art's And Science.",
+    date: "Apr 2017 - Apr 2018",
+    grade: "6.0 CGPA",
+    desc: "I completed my class 12th education at College of commerce art's and science, Patna Bigar, where I studied Science with PCM",
+    degree: "BSEB  Board(XII), Science with PCM",
   },
   {
     id: 4,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQOzDl-VRKs4MpU_ra-iNut0kg9U2sPVd0FyfdWoSCalwHp4FGEFHDM57WRNaUXvVVRq8&usqp=CAU",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4m3JM9Xp4GC8eROEUfPtiA-oLdYqoVWdmIBpbE6eOg&s",
     school:
-      "Chiraunji Lal Virendra Pal Sarasvati Vidhya Mandir Inter College, Pilibhit UP.",
-    date: "Apr 2017 - Apr 2018",
-    grade: "76%",
-    desc: "I completed my class 10th education at Chiraunji Lal Virendra Pal Sarasvati Vidhya Mandir Inter College, Pilibhit, where I studied Science with PCM",
-    degree: "UP Board(X), Science with PCM",
+      "Gyan Jyoti Residential Public School, Patna Bihar.",
+    date: "Apr 2015 - Apr 2016",
+    grade: "10.0 CGPA",
+    desc: "I completed my class 10th education at Gyan Jyoti Residential Public School, Patna Bigar, where I studied Science with PCM",
+    degree: "CBSE Board(X)",
   },
+  
 ];
 
 export const projects = [
+
   {
-    id: 7,
-    title: "Portfolio",
+    id: 5,
+    title: "E-Commerce Webiste",
+    date: "Feb 2024 - Mar 2024",
+    description:
+      "•	Developed responsive web pages using HTML, CSS, and ReactJS for optimal viewing across devices, while integrating JavaScript functionalities like dynamic product filtering and interactive forms for seamless checkout on the Dressify e-commerce website.",
+     image:"images/ecommerce.png",
+     tags: ["HTMl", "CSS", "JavaScript","ReactJs"],
+    category: "android app",
+    // github: "https://github.com/sanjeevgangwar/Password-Manager",
+    // webapp: "https://vexa-app.netlify.app/",
+  },
+
+  {
+    id: 6,
+    title: " My Portfolio",
     date: "Dec 2023 - Dec 2023",
     description:
-      "As a dedicated and versatile professional, my portfolio showcases a diverse range of projects that highlight my skills such as Java, C++ etc. Leveraging a strong foundation in Flutter Development and reactJs Development, I have successfully delivered impactful solutions that demonstrate both creativity and technical proficiency.",
-    // image:
-    //   "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: [
+      "As a dedicated and versatile professional, my portfolio showcases a diverse range of projects that highlight my skills such as Java, C++ etc. Leveraging a strong foundation in Frontend Development and reactJs Development, I have successfully delivered impactful solutions that demonstrate both creativity and technical proficiency.",
+      image:"images/portfolio.png",
+      tags: [
       "JavaScript",
       "JavaScript Libraries",
       "HTML",
@@ -197,97 +211,57 @@ export const projects = [
       "Data fetching through API's",
     ],
     category: "web app",
-    github: "https://github.com/sanjeevgangwar/Portfolio",
+    github: "https://github.com/rajeevsinghh/Portfolio",
     webapp: "https://sanjeevgangwar.github.io/Portfolio/",
-  },
-  {
-    id: 8,
-    title: "Todo-List",
-    date: "Jan 2024 - Jan 2024",
-    description:
-      "This is a web application that manages users' daily life tasks. Users can perform various operations such as deleting items, editing item names, and removing all items from the list. Local storage provides data stability; when you close the tab and browser, the data items will remain the same until you delete them.",
-    // image:
-    //   "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["JavaScrip", "HTML", "Css", "JavaScript Libraries", "Local Storage"],
-    category: "web app",
-    github: "https://github.com/sanjeevgangwar/Todo-List",
-    webapp: "https://sanjeevgangwar.github.io/Todo-List/",
   },
 
   {
-    id: 1,
-    title: "Password Manager",
-    date: "Feb 2022 - Apr 2022",
+    id: 7,
+    title: "Tic-Tac-Toe Game Development",
+    date: "Feb 2024 - Mar 2024",
     description:
-      "This application is developed using Flutter. Essentially, it was created for personal use, serving as a tool to securely store passwords.",
-    // image:
-    //   "https://github.com/sanjeevgangwar/DSVV-Application/blob/main/assets/images/main_campus.jpg",
-    tags: ["Flutter", "Firebase", "Login Authention", "Dart", "Form"],
-    category: "android app",
-    github: "https://github.com/sanjeevgangwar/Password-Manager",
-    // webapp: "https://vexa-app.netlify.app/",
-  },
-  {
-    id: 3,
-    title: "Password Generator",
-    date: "Feb 2022 - Apr 2022",
-    description:
-      "I developed this application while learning Java. Consequently, the application is coded in Java and serves the purpose of generating random strong passwords based on the length of digits you specify. Additionally, I employed the Firebase authentication method to facilitate user login into the application.",
-    // image:
-    //   "https://github.com/sanjeevgangwar/DSVV-Application/blob/main/assets/images/main_campus.jpg",
-    tags: ["Java", "XML", "Login Authention"],
+      "●	This project involved the development of a classic Tic Tac Toe game.The project aimed to implement the core game logic, player interaction, and user interface, providing a functional and engaging experience.",
+      image:"images/tic.png",
+      tags: ["HTMl", "CSS", "JavaScript"],
     category: "android app",
     // github: "https://github.com/sanjeevgangwar/Password-Manager",
     // webapp: "https://vexa-app.netlify.app/",
   },
 
   {
-    id: 2,
-    title: "University Clone",
-    date: "Nov 2021 - Jan 2022",
+    id: 8,
+    title: "Todo-List",
+    date: "Jan 2024 - Jan 2024",
     description:
-      "I developed this Flutter application utilizing Firebase, Firebase Cloud, and data fetching from the internet through APIs. This project was completed within one month during my internship at the university, and I collaborated with two additional team members during its development.",
-    // image:
-    //   "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-    tags: [
-      "Flutter",
-      "Firebase",
-      "Firebase Cloud",
-      "Data Fetching",
-      "Form Validation",
-      "Flutter Widgets",
-      "Dart",
-    ],
-    category: "android app",
-    github: "https://github.com/sanjeevgangwar/DSVV-Application/tree/main",
-  },
-  {
-    id: 4,
-    title: "API Fetching ",
-    date: "Nov 2021 - Jan 2022",
-    description:
-      "I developed this Flutter application utilizing Flutter, widgets, and data fetching from the internet through APIs. This project simply fetchs data from API's.",
-
-    tags: ["Flutter", "Flutter Container", "Flutter Widgets", "Dart", "API's"],
-    category: "android app",
-    github: "https://github.com/sanjeevgangwar/API-Testing",
-    // webapp: "https://trackify.duckdns.org",
-  },
-
-  {
-    id: 6,
-    title: "Blood Bank Management System",
-    date: "Sept 2021 - Nov 2021",
-    description:
-      "Developed a comprehensive Blood Bank Management System as a part of a team project. The system was designed to efficiently manage and streamline blood donation processes. This web-based application incorporated user-friendly interfaces for both donors and administrators, ensuring a seamless experience.",
-    image:
-      "https://drive.google.com/file/d/1Ytxqgu_oYsWWWGz1KVH0Nk5pO_tLqAbv/view?usp=drive_link",
-    tags: ["Php", "HTML", "Css", "JavaScript"],
+      "This is a web application that manages users' daily life tasks. Users can perform various operations such as deleting items, editing item names, and removing all items from the list. Local storage provides data stability; when you close the tab and browser, the data items will remain the same until you delete them.",
+      image:"images/todolist.png",
+      tags: ["JavaScrip", "HTML", "Css", "JavaScript Libraries", "Local Storage"],
     category: "web app",
-    github:
-      "https://github.com/sanjeevgangwar/Blood-Bank-Management-System-PHP-HTML",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
+    github: "https://github.com/sanjeevgangwar/Todo-List",
+    webapp: "https://sanjeevgangwar.github.io/Todo-List/",
   },
+
+ 
+  {
+    id: 9,
+    title: "Password Generator",
+    date: "Feb 2022 - Apr 2022",
+    description:
+      "I developed this application while learning Java. Consequently, the application is coded in Java and serves the purpose of generating random strong passwords based on the length of digits you specify. Additionally, I employed the Firebase authentication method to facilitate user login into the application.",
+      image:"images/password-Generator.jpg",
+      tags: ["Html", "css", "JavaScript"],
+    category: "android app",
+    // github: "https://github.com/sanjeevgangwar/Password-Manager",
+    // webapp: "https://vexa-app.netlify.app/",
+  },
+
+  
+
+ 
+    
+ 
+
+ 
 ];
 
 export const TimeLineData = [

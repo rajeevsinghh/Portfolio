@@ -140,11 +140,12 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_2zczjqr",
-        "template_262f8mb",
+        "service_tw60cci",
+        "template_vr7vb7a",
         form.current,
-        "zeBqnY7em-wugKmqz"
+        "KqDaQxhMV8wwn7ZoE"
       )
+      
       .then(
         (result) => {
           setOpen(true);
@@ -165,8 +166,8 @@ const Contact = () => {
         </Desc>
         <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Email Me 🚀</ContactTitle>
-          <ContactInput placeholder="Your Email" name="from_email" required />
-          <ContactInput placeholder="Your Name" name="from_name" required />
+          <ContactInput placeholder="Your Email" name="email_id" required />
+          <ContactInput placeholder="Your Name" name="to_name" required />
           <ContactInput placeholder="Subject" name="subject" required />
           <ContactInputMessage
             placeholder="Message"
@@ -189,3 +190,6 @@ const Contact = () => {
 };
 
 export default Contact;
+
+
+
